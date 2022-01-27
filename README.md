@@ -1,6 +1,6 @@
 # conky-jinx
 
-A minimal Conky curses theme, to be displayed on a phone-size terminal.
+A minimal [Conky](https://github.com/brndnmtthws/conky) curses theme, to be displayed on a phone-size terminal.
 
 
 # Rationale
