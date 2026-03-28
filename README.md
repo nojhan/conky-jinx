@@ -1,9 +1,19 @@
-# conky-jinx
+# THIS REPOSITORY HAS MOVED
+
+It is now available at: https://nojhan.net/git/nojhan/conky-jinx
+
+You can federate with it from Codeberg or another Forgejo instance.
+
+Please consider self-hosting to preserve the open Web, I highly recommend: https://yunohost.org
+
+
+
+## conky-jinx
 
 A minimal [Conky](https://github.com/brndnmtthws/conky) curses theme, to be displayed on a phone-size terminal.
 
 
-# Rationale
+## Rationale
 
 The objective of conky-jinx is to have a small text-base system monitor which draw
 your attention when a core resource starts missing on a remote computer.
@@ -15,7 +25,7 @@ running on my [Fairphone](https://www.fairphone.com) with a readable font.
 ![Conky-jinx screenshot](https://raw.githubusercontent.com/nojhan/conky-jinx/main/conky-jinx_screenshot.png)
 
 
-# Features
+## Features
 
 Conky-jinx displays only the basic resources that generally bring troubles:
 
@@ -32,7 +42,7 @@ their load, from white to red (going through rainbow colors).
 If you spot a bar being red, bad things are probably happening.
 
 
-# Install & run
+## Install & run
 
 ```sh
 sudo apt install conky-cli
